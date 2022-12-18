@@ -11,6 +11,6 @@ After re-running the code again with shift+ENTER the table I was interested in w
 
 To select it, I entered "scraper[3]" 
 
-Ran the cell, with a beautiful, extra organize pandas data frame with all of the values I wanted to select.
+Ran the cell, with a beautiful, extra organized pandas data frame with all of the values I wanted to select.
 
 Using pandas, not only did I discover saving a little time, it seemed to of made the code more reliable. Selecting the entire table, instead of individual items from the table of data. 
